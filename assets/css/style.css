@@ -143,6 +143,13 @@ body {
     margin: 20px 0 25px;
     overflow: auto;
   }
+  .banki {
+    position: relative;
+    float: left;
+    width: 274px;
+    margin: 20px 0 25px;
+    overflow: auto;
+  }
   
   .work:nth-child(even) {
     margin-right: 40px;
