@@ -152,11 +152,10 @@ body {
     overflow: auto;
     
   }
-  #bankipic{
-    width: 40%;
-    margin: 20px 0 25px;
-
-
+  .banki img{
+    width: 100%;
+    border: 0 none;
+    opacity: 0.8;
   }
   
   .work:nth-child(even) {
